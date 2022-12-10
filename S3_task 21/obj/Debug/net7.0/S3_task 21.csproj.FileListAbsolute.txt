@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/bin/Debug/net7.0/S3_task 21
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/bin/Debug/net7.0/S3_task 21.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/bin/Debug/net7.0/S3_task 21.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/bin/Debug/net7.0/S3_task 21.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/bin/Debug/net7.0/S3_task 21.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/refint/S3_task 21.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/S3_task 21.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S3_task 21/obj/Debug/net7.0/ref/S3_task 21.dll

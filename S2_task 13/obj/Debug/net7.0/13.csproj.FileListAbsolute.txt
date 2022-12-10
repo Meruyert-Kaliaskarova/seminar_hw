@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/bin/Debug/net7.0/13
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/bin/Debug/net7.0/13.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/bin/Debug/net7.0/13.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/bin/Debug/net7.0/13.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/bin/Debug/net7.0/13.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/refint/13.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/13.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/Debug/net7.0/ref/13.dll

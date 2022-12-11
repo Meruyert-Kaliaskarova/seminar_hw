@@ -13,3 +13,18 @@
 /Users/meruyertkaliaskarova/Desktop/seminar_hw/10/obj/Debug/net7.0/10.pdb
 /Users/meruyertkaliaskarova/Desktop/seminar_hw/10/obj/Debug/net7.0/10.genruntimeconfig.cache
 /Users/meruyertkaliaskarova/Desktop/seminar_hw/10/obj/Debug/net7.0/ref/10.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/bin/Debug/net7.0/10
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/bin/Debug/net7.0/10.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/bin/Debug/net7.0/10.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/bin/Debug/net7.0/10.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/bin/Debug/net7.0/10.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/refint/10.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/10.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/Debug/net7.0/ref/10.dll

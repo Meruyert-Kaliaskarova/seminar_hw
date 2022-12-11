@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/meruyertkaliaskarova/Desktop/seminar_hw/10/10.csproj": {}
+    "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/10.csproj": {}
   },
   "projects": {
-    "/Users/meruyertkaliaskarova/Desktop/seminar_hw/10/10.csproj": {
+    "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/10/10.csproj",
+        "projectUniqueName": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/10.csproj",
         "projectName": "10",
-        "projectPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/10/10.csproj",
+        "projectPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/10.csproj",
         "packagesPath": "/Users/meruyertkaliaskarova/.nuget/packages/",
-        "outputPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/10/obj/",
+        "outputPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 10/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/meruyertkaliaskarova/.nuget/NuGet/NuGet.Config"

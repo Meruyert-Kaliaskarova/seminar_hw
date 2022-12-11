@@ -4,10 +4,15 @@ Console.Clear();
 
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-string any_number = Convert.ToString(number);
-if (any_number.Length > 2){
-  Console.WriteLine("Третья цифра - " + any_number[2]);
+int third_num = 1;
+if (number > 99)
+{
+    while (number > 1000)
+    {
+        number = number / 10;
+    }
+    third_num = number % 10;
+        Console.WriteLine($"Третья цифра - {third_num}");
 }
-else {
-  Console.WriteLine("- Третьей цифры нет");
-}
+else
+    Console.WriteLine("Третьей цифры нет");

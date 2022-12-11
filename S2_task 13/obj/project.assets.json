@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/13.csproj",
+      "projectUniqueName": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 13/13.csproj",
       "projectName": "13",
-      "projectPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/13.csproj",
+      "projectPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 13/13.csproj",
       "packagesPath": "/Users/meruyertkaliaskarova/.nuget/packages/",
-      "outputPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/13/obj/",
+      "outputPath": "/Users/meruyertkaliaskarova/Desktop/seminar_hw/S2_task 13/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/meruyertkaliaskarova/.nuget/NuGet/NuGet.Config"

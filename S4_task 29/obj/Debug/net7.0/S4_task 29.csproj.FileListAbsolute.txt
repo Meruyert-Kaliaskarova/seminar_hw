@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/bin/Debug/net7.0/S4_task 29
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/bin/Debug/net7.0/S4_task 29.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/bin/Debug/net7.0/S4_task 29.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/bin/Debug/net7.0/S4_task 29.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/bin/Debug/net7.0/S4_task 29.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/refint/S4_task 29.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/S4_task 29.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/S4_task 29/obj/Debug/net7.0/ref/S4_task 29.dll

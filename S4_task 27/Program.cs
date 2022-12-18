@@ -9,4 +9,4 @@ while (num > 0)
     sum = sum + num % 10;
     num /= 10;
 }
-Console.WriteLine($"Сумма цифр в чсиле - {sum}");
+Console.WriteLine($"Сумма цифр в чсиле - " + sum);

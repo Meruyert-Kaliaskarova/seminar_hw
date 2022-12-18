@@ -14,7 +14,7 @@ int RandomNumbers(int numberElements, int min, int max)
       randomNumbers[i] = new Random().Next(-99, 99);
       Console.Write(randomNumbers[i] + " ");
 
-      if (i % 2 != 1)
+      if (i % 2 == 1)
       {
         sumElements = sumElements + randomNumbers[i];
       }

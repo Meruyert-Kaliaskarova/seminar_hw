@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/bin/Debug/net7.0/S4_task 38
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/bin/Debug/net7.0/S4_task 38.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/bin/Debug/net7.0/S4_task 38.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/bin/Debug/net7.0/S4_task 38.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/bin/Debug/net7.0/S4_task 38.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/refint/S4_task 38.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/S4_task 38.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_5/S4_task 38/obj/Debug/net7.0/ref/S4_task 38.dll

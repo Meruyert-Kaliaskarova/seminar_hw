@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/bin/Debug/net7.0/S6_task 43
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/bin/Debug/net7.0/S6_task 43.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/bin/Debug/net7.0/S6_task 43.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/bin/Debug/net7.0/S6_task 43.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/bin/Debug/net7.0/S6_task 43.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/refint/S6_task 43.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/S6_task 43.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 43/obj/Debug/net7.0/ref/S6_task 43.dll

@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/bin/Debug/net7.0/S6_task 41
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/bin/Debug/net7.0/S6_task 41.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/bin/Debug/net7.0/S6_task 41.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/bin/Debug/net7.0/S6_task 41.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/bin/Debug/net7.0/S6_task 41.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/refint/S6_task 41.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/S6_task 41.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_6/S6_task 41/obj/Debug/net7.0/ref/S6_task 41.dll

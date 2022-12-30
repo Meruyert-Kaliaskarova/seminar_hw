@@ -1,0 +1,15 @@
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/bin/Debug/net7.0/task_50
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/bin/Debug/net7.0/task_50.deps.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/bin/Debug/net7.0/task_50.runtimeconfig.json
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/bin/Debug/net7.0/task_50.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/bin/Debug/net7.0/task_50.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.csproj.AssemblyReference.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.AssemblyInfoInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.AssemblyInfo.cs
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.csproj.CoreCompileInputs.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/refint/task_50.dll
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.pdb
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/task_50.genruntimeconfig.cache
+/Users/meruyertkaliaskarova/Desktop/seminar_hw/Seminar_7/task_50/obj/Debug/net7.0/ref/task_50.dll

@@ -6,7 +6,7 @@ Console.Write("Введите число n: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите число m: ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write(A(n, m));
+Console.Write($"A(n, m) = {A(n, m)} ");
 
 int A(int n, int m)
 {
